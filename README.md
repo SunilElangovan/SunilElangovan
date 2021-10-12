@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SunilElangovan
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning AWS cloud
 - 📫 How to reach me sunil.en.06@gmail.com
 
 <!---
